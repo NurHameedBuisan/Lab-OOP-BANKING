@@ -1,0 +1,14 @@
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.AssemblyInfoInputs.cache
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.AssemblyInfo.cs
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.csproj.CoreCompileInputs.cache
+D:\LabOOP\Banking\bin\Debug\net7.0\Banking.exe
+D:\LabOOP\Banking\bin\Debug\net7.0\Banking.deps.json
+D:\LabOOP\Banking\bin\Debug\net7.0\Banking.runtimeconfig.json
+D:\LabOOP\Banking\bin\Debug\net7.0\Banking.dll
+D:\LabOOP\Banking\bin\Debug\net7.0\Banking.pdb
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.dll
+D:\LabOOP\Banking\obj\Debug\net7.0\refint\Banking.dll
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.pdb
+D:\LabOOP\Banking\obj\Debug\net7.0\Banking.genruntimeconfig.cache
+D:\LabOOP\Banking\obj\Debug\net7.0\ref\Banking.dll
